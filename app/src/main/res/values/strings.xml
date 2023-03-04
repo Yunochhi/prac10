@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prac10</string>
+    <string name="name1">Настройки</string>
+    <string name="name2">Профиль пользователя</string>
+    <string name="name3">Дата и время</string>
+    <string name="name4">Настройки звука</string>
+    <string name="name5">Проверить обновления</string>
+</resources>
